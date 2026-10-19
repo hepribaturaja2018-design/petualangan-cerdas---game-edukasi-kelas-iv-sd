@@ -1,0 +1,8 @@
+{
+  "name": "PETUALANGAN CERDAS - Game Edukasi Kelas IV SD",
+  "description": "Aplikasi Game Edukasi Interaktif Kelas IV SDN 32 Rantau Bayur karya Hepri Joni. Belajar Seru, Berpetualang, Raih Prestasi!",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
